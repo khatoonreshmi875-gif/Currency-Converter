@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "react redux",
+		"path": "../../../../../react redux"
+	},
+	{
+		"name": "react js",
+		"path": "../../../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "react redux"
+  }
+}
